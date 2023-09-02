@@ -1,0 +1,38 @@
+.main,*
+{
+    text-align: center;
+    align-self: center;
+}
+
+h1
+{
+    color: rgb(40, 44, 44);
+    font-family: cursive;
+    font-size: 3rem;
+    
+}
+.caption
+{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.buttons{
+    padding: 10%;
+}
+.odd_buttons
+{
+    position: relative;
+    top: -60px;
+    height:120px; width: 60px;
+    background-color:rgb(40, 44, 44);
+    border-radius: 6px ;
+}
+.even_buttons
+{
+    height:180px; width: 60px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+}
+footer p{
+    color: #b2b2b2;
+}
